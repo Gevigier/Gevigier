@@ -1,18 +1,3 @@
-<!--
-**Gevigier/Gevigier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## 👋 Olá! Sou o Marcos Gabriel, estudo Eng. da Computação e este é meu GitHub. <br> Seja bem-vindo! 😃
 
 Estou cursando o terceiro semestre de Engenharia da Computação pela universidade Anhanguera. Atualmente estou trabalhando no ramo moveleiro, setor de PCP.
@@ -23,8 +8,10 @@ Entendo, com tranquilidade, vídeos, filmes e séries no idioma Inglês, ainda q
 
 #### Tenho facilidade com Python e estou numa busca contínua por novos conhecimentos. Meus objetivos no momento são:
 - Conhecer mais do desenvolvimento Back-end em Java;
-- Conhecer mais do desenvolvimento Front-End com HTML, CSS, JavaScript, NodeJS e ReactJS;
+- Conhecer mais do desenvolvimento Front-End com HTML, CSS, JavaScript, Node.js e React.js;
 - Conhecer mais sobre Banco de Dados;
+
+Ah, eu também tenho três gatinhos pretos e duas cachorrinhas, haha <br> 🐱🐱🐱🐶🐶
 
 <hr>
 
