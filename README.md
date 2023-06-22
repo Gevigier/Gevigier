@@ -15,12 +15,12 @@ Ah, eu também tenho três gatinhos pretos e duas cachorrinhas, haha <br> 🐱�
 
 <hr>
 
-### 📋 Meus Status:
+### 📋 Minhas Estatísticas:
 
 <div align="center" white-space="nowrap">
   <a href="https://github.com/Gevigier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gevigier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gevigier&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-gevigier.vercel.app/api?username=Gevigier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-gevigier.vercel.app/api/top-langs/?username=Gevigier&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <hr>
@@ -29,4 +29,7 @@ Ah, eu também tenho três gatinhos pretos e duas cachorrinhas, haha <br> 🐱�
 <div> 
   <a href="https://www.linkedin.com/in/marcos-gabriel-gevigier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mrcosgabg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Gevigier&label=Profile%20Views&color=11&icon=3&pretty=false" />
+</a>
 </div>
