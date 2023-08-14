@@ -1,8 +1,8 @@
 ## 👋 Olá! Sou o Marcos Gabriel, estudo Eng. da Computação e este é meu GitHub. <br> Seja bem-vindo! 😃
 
-Estou cursando o terceiro semestre de Engenharia da Computação pela universidade Anhanguera. Atualmente estou trabalhando no ramo moveleiro, setor de PCP.
+Estou cursando o quarto semestre de Engenharia da Computação pela universidade Anhanguera. Atualmente estou trabalhando no ramo moveleiro, setor de PPCP.
 
-Desde muito novo, apresento afinidade com a área de tecnologia e, ainda criança, participei de cursinhos de "Montagem e Manutenção de Computadores" e de "Design Gráfico", além de diversas vezes ter feito pequenos projetos de desenvolvimento de jogos na engine Unity com a linguagem C#
+Desde muito novo, apresento afinidade com a área de tecnologia e, ainda criança, participei de cursinhos de "Montagem e Manutenção de Computadores" e de "Web Design", além de diversas vezes ter feito pequenos projetos de desenvolvimento de jogos na engine Unity com a linguagem C#
 
 Entendo, com tranquilidade, vídeos, filmes e séries no idioma Inglês, ainda que, no momento, eu não possua certificação neste idioma
 
