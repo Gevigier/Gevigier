@@ -19,8 +19,8 @@ Ah, eu também tenho três gatinhos pretos e duas cachorrinhas, haha <br> 🐱�
 
 <div align="center" white-space="nowrap">
   <a href="https://github.com/Gevigier">
-  <img height="180em" src="https://github-readme-stats-gevigier.vercel.app/api?username=Gevigier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-gevigier.vercel.app/api/top-langs/?username=Gevigier&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-hazel-delta.vercel.app/api?username=Gevigier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-hazel-delta.vercel.app/api/top-langs/?username=Gevigier&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <hr>
