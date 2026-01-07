@@ -29,7 +29,4 @@ Ah, eu também tenho três gatinhos pretos e duas cachorrinhas, haha <br> 🐱�
 <div> 
   <a href="https://www.linkedin.com/in/marcos-gabriel-gevigier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mrcosgabg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Gevigier&label=Profile%20Views&color=11&icon=3&pretty=false" />
-</a>
 </div>
